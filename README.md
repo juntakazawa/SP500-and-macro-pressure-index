@@ -6,7 +6,7 @@ Suspecting that sustained weakness across broad macroeconomic indicators pushes 
 Looking at the results below do seem to suggest 'buying the dip' in these cases may be profitable.
 Interestingly, the signal has triggered on 17 March 2026, as I write this on 25 March 2026. Who knows?
 
-**Not investment advice, please do your own research**
+**Not investment advice, please do your own research!**
 
 <img width="2086" height="1044" alt="pressure_index" src="https://github.com/user-attachments/assets/e81ec907-aaf9-444e-bb7a-f5715646281f" />
 
