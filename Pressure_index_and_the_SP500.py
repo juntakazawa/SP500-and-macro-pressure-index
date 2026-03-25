@@ -19,7 +19,9 @@ of the 20-day change in:
 
 Convention: a POSITIVE z-score means conditions are improving
 (higher S&P, lower yields, lower inflation expectations, 
- lower policy uncertainty, tighter credit spreads).
+ lower policy uncertainty, tighter credit spreads). We can debate
+on the signs for yield and inflation expectations, but for the sake 
+of this simple exercise, we stick with the above.
 
 Requirements:
     pip install pandas matplotlib requests
